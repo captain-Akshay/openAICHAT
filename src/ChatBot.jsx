@@ -20,7 +20,7 @@ const ChatBot = () => {
       {
         headers: {
           'Content-Type': 'application/json',
-          Authorization: `Bearer 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`,
+          Authorization: `Bearer API_KEY`,
         },
       }
     );
